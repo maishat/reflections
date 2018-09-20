@@ -23,11 +23,11 @@ Q: How can you use the commands git log and git diff to view the history of file
 
 A: git log shows all the commit history where as git diff shows the difference between the given two commits or the recent current commit and the one before that.
 
-How might using version control make you more confident to make changes that
+Q: How might using version control make you more confident to make changes that
 could break something?
 
     Fill in your answer here
 
-Now that you have your workspace set up, what do you want to try using Git for?
+Q: Now that you have your workspace set up, what do you want to try using Git for?
 
-    Fill in your answer here
+A:
